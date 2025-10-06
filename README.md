@@ -1,94 +1,94 @@
-# Divyesh Govardhanan – Microsoft MVP Readiness Portfolio
+# Divyesh Govardhanan — Microsoft MVP Readiness Portfolio
 
-## 👤 Professional Summary
-Divyesh Govardhanan is an experienced cloud and software professional with deep expertise in Microsoft Azure, .NET, and DevOps technologies.  
-He is an active contributor to the Microsoft technical community through open-source work, technical writing, and mentoring.  
-This document consolidates his professional and community contributions in preparation for Microsoft MVP nomination consideration.
+> **Last updated:** October 6, 2025  
+> **Focus area:** Azure (Cloud/AI/Apps & Management)
 
 ---
 
-## 🏆 MVP Readiness Overview
-
-| Area | Highlights |
-|------|-------------|
-| **Microsoft Q&A** | 300+ answers, 100+ accepted; Top Community Contributor; Featured in All-Time Leaderboard |
-| **Open Source** | Active contributor to Azure PowerShell and .NET ecosystem projects |
-| **Community Engagement** | Hackathon judge, mentor, and knowledge sharer in Microsoft developer forums |
-| **Content Creation** | Regular author of technical blogs on LinkedIn and Medium; focus on Azure, DevOps, and infrastructure |
-| **Certifications** | Multiple Microsoft Azure and DevOps certifications |
-| **Advocacy** | Promotes Microsoft technologies across professional networks and developer communities |
+## 📌 Quick Summary
+- Active community contributor on **Microsoft Q&A (Azure)** with multiple **Top 10 placements** in 2025 (overall and category-wise).
+- Speaking, writing, and mentoring across Azure, GenAI, and cloud modernization.
+- Building repeatable assets and public artifacts that demonstrate consistent impact.
 
 ---
 
-## 🌐 Community Contributions
+## 🏆 Microsoft Q&A — Azure Leaderboard Highlights (2025)
+These are verified monthly placements from Microsoft’s **Top community contributors** leaderboards for Azure tags on Q&A.
 
-| Activity | Period | Platform / Link | Impact |
-|-----------|---------|----------------|--------|
-| Microsoft Q&A – 300+ answers, 100+ accepted, Top Community Contributor | Feb–Jul 2025 | [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/divyeshgovardhanan-1845) | Featured monthly; visible on All-Time Leaderboard; active in Azure Apps, Management, Data & AI, Infrastructure |
-| Mentorship & Hackathon Judging | 2024–2025 | Microsoft Community Events | Guided emerging developers in building solutions aligned with Azure architecture best practices |
-| Community Knowledge Sharing | Ongoing | Microsoft Q&A, LinkedIn | Ongoing engagement through posts, comments, and mentorship |
+> **Legend:**  
+> **All** = Overall rank across all Azure tags.  
+> **Apps** = Apps & Management  
+> **Data** = Data & AI  
+> **Infra** = Infrastructure & Monitoring
 
----
+| Month (2025) | All | Apps | Data | Infra | Source |
+|---|---:|---:|---:|---:|---|
+| **Aug** | **8** | **4** | **6** | **8** | https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard |
+| **Jul** | **7** | **6** | **10** | **8** | https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard-history-2025/azure-leaderboard-jul-2025 |
+| **Jun** | **7** | **4** | **8** | — | https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard-history-2025/azure-leaderboard-jun-2025 |
+| **May** | — | **3** | — | — | https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard-history-2025/azure-leaderboard-may-2025 |
+| **Apr** | **8** | **9** | — | **10** | https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard-history-2025/azure-leaderboard-apr-2025 |
+| **Mar** | **7** | **5** | — | **8** | https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard-history-2025/azure-leaderboard-mar-2025 |
+| **Feb** | **10** | — | — | — | https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard-history-2025/azure-leaderboard-feb-2025 |
 
-## ✍️ Content Contributions
+> **Note:** “—” indicates not listed in the Top 10 for that specific category in that month.
 
-| Title / Topic | Date | Platform | Link | Reach / Impact |
-|----------------|------|-----------|------|----------------|
-| Ensuring High Availability and Disaster Recovery for Azure Virtual Machines | Sep 2025 | LinkedIn | [Post Link](https://www.linkedin.com/in/divyeshgovardhanan/) | 250+ Impressions |
-| KQL Tutorial: Learn Kusto Query Language with Examples (Beginner to Intermediate) | Aug 2025 | LinkedIn | [Post Link](https://www.linkedin.com/in/divyeshgovardhanan/) | 645+ Impressions |
-| Hidden Gems of Azure (Part 2) | Jul 2025 | Medium | [Article Link](https://medium.com) | 600+ Impressions |
-| Hidden Gems of Azure (Part 1) | Jun 2025 | Medium | [Article Link](https://medium.com) | 750+ Impressions |
-| Practical Guide to Deploying Azure App Service Across Multiple Regions with Code & Testing | Feb 2025 | Medium | [Article Link](https://medium.com) | 800+ Impressions |
-| Mastering Azure Networking for IaaS: VNets, Subnets, and More | Jan 2025 | Medium | [Article Link](https://medium.com) | 690+ Impressions |
-| A Beginner’s Guide to Microsoft Azure IaaS: Simplifying Infrastructure Deployment | Dec 2024 | Medium | [Article Link](https://medium.com) | 700+ Impressions |
-
-> All posts emphasize practical cloud deployment, DevOps pipelines, and Azure governance best practices.
-
----
-
-## 💻 Open Source Contributions
-
-| Project / Repository | Contribution | Link / PR | Description |
-|-----------------------|--------------|------------|--------------|
-| Azure PowerShell | Code enhancement & bug fixes | [GitHub](https://github.com/Azure/azure-powershell/pulls) | Improved command reliability and documentation |
-| Microsoft Q&A & Docs | Feedback and documentation suggestions | [GitHub](https://github.com/MicrosoftDocs) | Contributed clarifications and corrections to official Microsoft Docs |
-| .NET Foundation Projects | Code review and collaboration | [GitHub](https://github.com/dotnet) | Advocated for best practices and performance optimization |
+### What “Top Community Contributor” means
+Microsoft Q&A recognizes **Top community contributors** and **Community Champions** via monthly leaderboards for each product area (e.g., Azure). These lists showcase non‑Microsoft contributors ranked by answers provided for that month. Learn more about the program and recognition here:  
+https://learn.microsoft.com/en-us/answers/support/community-champions-program
 
 ---
 
-## 🏅 Awards & Recognitions
+## 🎤 Speaking & Evangelism (Selected)
+- **Tech Talks (2024–2025):** Azure modernization, GenAI for delivery teams, hyper‑personalization patterns, observability & reliability practices, IaC guardrails, and cost‑optimized architectures.  
+- **Panels & Fireside Chats:** Community Q&A sessions on Azure best practices, AI+cloud trends, and app modernization.
 
-| Award / Recognition | Year | Issued By | Description |
-|---------------------|------|------------|--------------|
-| Hackathon Judge & Mentor Recognition | 2024 | Microsoft Community | Recognized for judging and mentoring developers during regional hackathons |
-| Product Team Lead – SaaS Application | 2024 | Corporate Recognition | Led a global SaaS product team solving customer issues worldwide |
-| .NET Foundation Candidate | 2024 | .NET Foundation | Considered for active membership due to open-source impact and community engagement |
+> _Tip: Add dated links to recordings/slides as they’re published_
 
 ---
 
-## 🎓 Certifications & Skills
+## ✍️ Writing & Content (Selected)
+- **Azure blogs/notes:** Medium & LinkedIn posts on modernization, governance, App Service, KQL, networking, and AI integration.  
+- **How‑tos & Guides:** Step‑by‑step patterns for multi‑region deployments, blue‑green/canary, and App Insights cost tuning.
 
-| Certification | Issued By | Year |
-|----------------|------------|------|
-| Microsoft Certified: Azure Solutions Architect Expert | Microsoft | 2023 |
-| Microsoft Certified: Azure Administrator Associate | Microsoft | 2022 |
-| Microsoft Certified: DevOps Engineer Expert | Microsoft | 2022 |
-| Microsoft Certified: Azure Security Engineer Associate | Microsoft | 2021 |
-| Other Microsoft and Azure-related Certifications | Microsoft | — |
-
-### Technical Skills
-**Core Expertise:** Azure, .NET, ASP.NET Core, Azure DevOps, Infrastructure as Code, PowerShell  
-**Other Skills:** Power Platform, CI/CD Pipelines, Cloud Architecture, System Integration  
+> _Tip: Link individual posts here with dates and short “impact” metrics (reads, reposts, comments)._
 
 ---
 
-## 🤝 Connect with Me
+## 👩🏽‍💻 OSS & Public Artifacts
+- **Samples & Snippets:** IaC modules (Terraform/Bicep), pipelines with quality gates, and governance baselines.  
+- **Utilities:** Small tools/scripts for Azure readiness checks (e.g., outbound retirement, SKU migrations, MFA enforcement checklists).
 
-- **LinkedIn:** [linkedin.com/in/divyeshgovardhanan](https://www.linkedin.com/in/divyeshgovardhanan/)  
-- **Microsoft Q&A Profile:** [learn.microsoft.com/en-us/users/divyeshgovardhanan-1845](https://learn.microsoft.com/en-us/users/divyeshgovardhanan-1845)  
-- **GitHub:** [github.com/divyeshgovardhanan](https://github.com/divyeshgovardhanan)  
-- **Medium:** [medium.com/@divyeshgovardhanan](https://medium.com/@divyeshgovardhanan)  
+> _Tip: Link to specific repos, PRs, or gists that you want reviewers to see first._
 
 ---
 
-> _“Community leadership is not about recognition, but about consistent contribution and impact.”_
+## 🧭 MVP Readiness Narrative (Why now)
+1. **Consistent impact:** Multi‑month Top 10 placements across Azure Q&A validate sustained, public community help.  
+2. **Breadth + depth:** Answers and content span Apps, Data/AI, and Infra categories—showing range and practical expertise.  
+3. **Reusable IP:** Talks, posts, and OSS artifacts emphasize repeatable patterns that teams can adopt immediately.  
+4. **Community leadership:** Mentoring, judging, and hands‑on help to accelerate developers in real customer contexts.
+
+---
+
+## 🔗 Profiles & Links
+- **Microsoft Q&A (profile):** https://learn.microsoft.com/en-us/users/divyeshgovardhanan-1845/  
+- **Azure Leaderboards (Latest & History):**  
+  - Latest: https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard  
+  - History (2025): https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard-history-2025/  
+- **LinkedIn:** https://www.linkedin.com/in/divyeshgovardhanan/  
+- **GitHub:** https://github.com/divyeshg94  
+- **Medium:** https://medium.com/@divyeshgovardhanan
+
+---
+
+## ✅ How to keep this page fresh
+- **Monthly:** Update the table above with the newest leaderboard results and add links.  
+- **Quarterly:** Add new talks (with slides/recordings) and blog posts with basic reach metrics.  
+- **On publish:** Add OSS links (PRs, repos), utilities, and templates that reviewers can try.
+
+---
+
+## 🗒️ Changelog
+- **2025‑10‑06:** Added verified **Microsoft Q&A — Azure** monthly leaderboard placements and “Top community contributor” explanation; refreshed structure and links.
+
