@@ -1,6 +1,6 @@
 # Divyesh Govaerdhanan — Microsoft MVP Readiness Portfolio
 
-> **Last updated:** October 6, 2025\
+> **Last updated:** October 21, 2025\
 > **Focus area:** Azure (Cloud/AI/Apps & Management)
 
 ---
@@ -25,7 +25,8 @@ These are verified monthly placements from Microsoft’s **Top community contrib
 
 | Month (2025) | All    | Apps  | Data   | Infra  | Source                                                                                                                                                                                                                                 |
 | ------------ | ------ | ----- | ------ | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Aug**      | **8**  | **4** | **6**  | **8**  | [https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard](https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard)                                                                                 |
+| **Sep**      | **10**  | **7** | **7**  | -  | [https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard](https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard) 
+| **Aug**      | **8**  | **4** | **6**  | **8**  | [https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard](https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard-history-2025/azure-leaderboard-aug-2025)                                                                                 |
 | **Jul**      | **7**  | **6** | **10** | **8**  | [https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard-history-2025/azure-leaderboard-jul-2025](https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard-history-2025/azure-leaderboard-jul-2025) |
 | **Jun**      | **7**  | **4** | **8**  | —      | [https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard-history-2025/azure-leaderboard-jun-2025](https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard-history-2025/azure-leaderboard-jun-2025) |
 | **May**      | —      | **3** | —      | —      | [https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard-history-2025/azure-leaderboard-may-2025](https://learn.microsoft.com/en-us/answers/support/azure/azure-leaderboard-history-2025/azure-leaderboard-may-2025) |
@@ -48,8 +49,8 @@ Microsoft Q&A recognizes **Top community contributors** and **Community Champion
 - **Utilities:** Small tools/scripts for Azure readiness checks (e.g., outbound retirement, SKU migrations, MFA enforcement checklists).
 
 GitHub:
--- [Azure-networking-readiness-check](https://github.com/divyeshg94/azure-networking-readiness-check)
--- [Azure Agent Travel Planner](https://github.com/divyeshg94/TravelPlanner.AI)
+- [Azure-networking-readiness-check](https://github.com/divyeshg94/azure-networking-readiness-check)
+- [Azure Agent Travel Planner](https://github.com/divyeshg94/TravelPlanner.AI)
 
 ---
 
@@ -79,6 +80,7 @@ GitHub:
 
 | Date             | Title                                                                                      | Link                                                                                                                                                                                                                                                                                         |
 | ---------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Oct 13, 2025**  | How to Cut Azure AI Costs by 70% While Scaling GPT-5 | [https://medium.com/@divyeshgovardhanan/how-to-cut-azure-ai-costs-by-70-while-scaling-gpt-5-91e5627d0574](https://medium.com/@divyeshgovardhanan/how-to-cut-azure-ai-costs-by-70-while-scaling-gpt-5-91e5627d0574)
 | **Oct 3, 2025**  | Azure’s September 30, 2025 Turning Point: What’s Changing, What Breaks, and What to Do Now | [https://medium.com/@divyeshgovardhanan/azures-september-30-2025-turning-point-what-s-changing-what-breaks-and-what-to-do-now-1f6f9178539b](https://medium.com/@divyeshgovardhanan/azures-september-30-2025-turning-point-what-s-changing-what-breaks-and-what-to-do-now-1f6f9178539b)       |
 | **Sep 15, 2025**  | Azure AI Foundry Agent Service + C#: Build Production-Ready AI Agents                | [https://medium.com/@divyeshgovardhanan/azure-ai-foundry-agent-service-c-build-production-ready-ai-agents-f1d3afb0f90a](https://medium.com/@divyeshgovardhanan/azure-ai-foundry-agent-service-c-build-production-ready-ai-agents-f1d3afb0f90a)                           |
 | **Sep 8, 2025**  | Ensuring High Availability and Disaster Recovery for Azure Virtual Machines                | [https://medium.com/@divyeshgovardhanan/ensuring-high-availability-and-disaster-recovery-for-azure-virtual-machines-bbe74c665df4](https://medium.com/@divyeshgovardhanan/ensuring-high-availability-and-disaster-recovery-for-azure-virtual-machines-bbe74c665df4)                           |
@@ -95,6 +97,7 @@ GitHub:
 
 | Date             | Title (as posted)                                                                     | Link                                                                                                                                                                                                                                      | Impressions |
 | ---------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | 
+| **Oct 14, 2025**  | How to Cut Azure AI Costs by 70% While Scaling GPT-5 | [https://www.linkedin.com/posts/divyeshgovardhanan_how-to-cut-azure-ai-costs-by-70-while-scaling-share-7383878771868696576-vvfs?utm_source=share&utm_medium=member_desktop&rcm=ACoAABKoJoABvNrdZuMonz1vOlWRW-vX2r6QMnU](https://www.linkedin.com/posts/divyeshgovardhanan_how-to-cut-azure-ai-costs-by-70-while-scaling-share-7383878771868696576-vvfs?utm_source=share&utm_medium=member_desktop&rcm=ACoAABKoJoABvNrdZuMonz1vOlWRW-vX2r6QMnU)
 | **Oct 3, 2025**  | Azure’s September 30, 2025 Turning Point: What’s Changing, What Breaks, and What to Do Now | [https://www.linkedin.com/posts/divyeshgovardhanan_microsoftazure-azure-networking-share-7378587292220854272--A6m?utm_source=share&utm_medium=member_desktop&rcm=ACoAABKoJoABvNrdZuMonz1vOlWRW-vX2r6QMnU](https://www.linkedin.com/posts/divyeshgovardhanan_microsoftazure-azure-networking-share-7378587292220854272--A6m?utm_source=share&utm_medium=member_desktop&rcm=ACoAABKoJoABvNrdZuMonz1vOlWRW-vX2r6QMnU)       | 420 |
 | **Sep 15, 2025**  | Azure AI Foundry Agent Service + C#: Build Production-Ready AI Agents                | [https://www.linkedin.com/posts/divyeshgovardhanan_azure-ai-foundry-agent-service-c-build-share-7373156644773335040-W0Jx?utm_source=share&utm_medium=member_desktop&rcm=ACoAABKoJoABvNrdZuMonz1vOlWRW-vX2r6QMnU](https://www.linkedin.com/posts/divyeshgovardhanan_azure-ai-foundry-agent-service-c-build-share-7373156644773335040-W0Jx?utm_source=share&utm_medium=member_desktop&rcm=ACoAABKoJoABvNrdZuMonz1vOlWRW-vX2r6QMnU)                           | 827 |
 | **Sep 8, 2025**  | Ensuring High Availability and Disaster Recovery for Azure Virtual Machines                | [https://www.linkedin.com/posts/divyeshgovardhanan_azure-cloudcomputing-disasterrecovery-share-7370620295583371265-uDiM?utm_source=share&utm_medium=member_desktop&rcm=ACoAABKoJoABvNrdZuMonz1vOlWRW-vX2r6QMnU](https://www.linkedin.com/posts/divyeshgovardhanan_azure-cloudcomputing-disasterrecovery-share-7370620295583371265-uDiM?utm_source=share&utm_medium=member_desktop&rcm=ACoAABKoJoABvNrdZuMonz1vOlWRW-vX2r6QMnU)                           | 450 |
