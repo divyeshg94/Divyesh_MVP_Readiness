@@ -1,8 +1,7 @@
 # Divyesh Govaerdhanan — Microsoft MVP Readiness Portfolio
 
-> **Last updated:** October 21, 2025\
-> **Focus area:** Azure (Cloud/AI/Apps & Management)
-
+> **Last updated:** November 29, 2025\
+> **Focus area:** Microsoft Azure & Microsoft AI Foundry
 ---
 
 ## 📌 Quick Summary
