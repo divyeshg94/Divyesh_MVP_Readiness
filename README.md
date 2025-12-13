@@ -40,7 +40,8 @@ These are verified monthly placements from Microsoft’s **Top community contrib
 
 Microsoft Q&A recognizes **Top community contributors** and **Community Champions** via monthly leaderboards for each product area (e.g., Azure). These lists showcase non‑Microsoft contributors ranked by answers provided for that month. Learn more about the program and recognition here:\
 [https://learn.microsoft.com/en-us/answers/support/community-champions-program](https://learn.microsoft.com/en-us/answers/support/community-champions-program)
-All time leaderboard: https://learn.microsoft.com/en-us/answers/support/azure/azure-all-time-leaderboard
+
+All-time leaderboard: [https://learn.microsoft.com/en-us/answers/support/azure/azure-all-time-leaderboard](https://learn.microsoft.com/en-us/answers/support/azure/azure-all-time-leaderboard)
 ---
 
 ## 👩🏽‍💻 OSS & Public Artifacts
